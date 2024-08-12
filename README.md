@@ -1,5 +1,4 @@
-# Let's write the README content into a .md file and save it.
-readme_content = """
+
 # Autonomous Vehicle Obstacle Detection and Segmentation in South Asian Road Conditions
 
 ## Project Overview
